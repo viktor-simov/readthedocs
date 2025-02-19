@@ -1,6 +1,5 @@
 title: Ссылки
 
-**Ссылки на блоги друзей:**
+**Ссылки на ресурсы:**
 
-- https://rea7.readthedocs.io/en/latest/
-- https://xh4l3.readthedocs.io/ru/latest/
+- https://habr.com
