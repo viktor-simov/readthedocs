@@ -1,4 +1,4 @@
-title: О проекте
+title: About project
 
 # О проекте
 
